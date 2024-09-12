@@ -1,0 +1,10 @@
+Millised veerud võiksid veel olla tabelites: 
+
+student: Seal võiks veel olla sugu, e-post, telefoninumber, õppeasutus.
+
+stgroup: Seal võiks veel olla grupijuht, Alguskuupäev, Lõppkuupäev.
+
+Milliseid andmeid võiks veel koguda? 
+Praktika- ja töökohad
+Eksamihinded 
+Grupi saavutused
